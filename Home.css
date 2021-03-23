@@ -1,4 +1,14 @@
-
+@media(max-width:998px){
+    html{
+      font-size: 75%;
+    }
+  }
+  @media(max-width:768px){
+    html{
+      font-size: 50%;
+    }
+  }
+  
 .pruduct_img{
     width: 16rem;
     height: 16rem;
