@@ -1,0 +1,27 @@
+
+.pruduct_img{
+    width: 16rem;
+    height: 16rem;
+}
+.card{
+    width: 16rem;
+    height: 30rem;
+    margin: 1rem;
+    /* padding:1rem; */
+    border: 1rem;
+    display: flex;
+    float: left;
+}
+.search{
+    width: 40rem;
+    height: 2.5rem;
+    /* margin-left: 5rem; */
+    margin:0.5rem 0; 
+    /* margin-left: 5rem; */
+}
+.about{
+    border-top: .2rem solid;
+    padding-top: 2rem;
+    /* margin: 1rem; */
+    background-color: gray;
+}
